@@ -10,6 +10,6 @@ Essentially, what we came up with is a rather primitive, but extremely intuitive
 # Results
 Here are some visualizations of our results. 
 
-![](./most_words.png = 400x400)
+![](./most_words.png)
 
-![](./least_words.png = 400x400)
+![](./least_words.png)
