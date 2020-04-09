@@ -5,8 +5,8 @@ We hypothesized that Reddit comments in politically-themed communities may provi
 
 Essentially, what we came up with is a rather primitive, but extremely intuitive and useful, form of topic mining. We were able to come up with very interesting results using rather simple text processing methods and predictive algorithms. This solution is also highly scalable to more data- we can handle a much higher volume of data and still expect reasonable performance thanks to our MapReduce back-end for processing. 
 
-![High-level Design][Design_diagram.png]
+![High-level Design][./Design_diagram.png]
 
-![][most_words.png]
+![][./most_words.png]
 
-![][least_words.png]
+![][./least_words.png]
